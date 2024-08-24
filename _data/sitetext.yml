@@ -21,18 +21,15 @@ en: &DEFAULT_EN
     text: ""
     section: services
     list:
-      - title: "Power BI"
-        desc: "Having 4 year of work experience with Power BI in Supply Chain, I'm passionate about crating stories through data to drive powerful insights."
-        icon: fab fa-windows #fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Python - Data Analytics"
-        desc: "Python is a great tool for any data analytics purpose, I’m aim to use python and all its potential to extract the most of a certain dataset in order to answer key business questions."
-        icon: fab fa-python #fas fa-laptop
-      - title: "Python - Data Science" #"[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Combining statics and AI is what makes me want to challenge myself on creating new invocative solutions. Where my goal is to build projects that uses all the technologies that are in our disposal while pushing the boundaries to deliver results."
-        icon: fas fa-robot #fab fa-markdown
-      - title: "SQL" #"[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "3 years of experience using SQL in Hadoop environment to build efficient and reliable queries to run business models."
-        icon: fas fa-database #fab fa-markdown
+      - title: "Technical Skills"
+        desc: "- Python (Pandas, NumPy, Scikit-learn, ARIMA) <br> - Power BI, Knime and Alteryx.<br> - SQL (Hadoop) <br> - SAP HANA <br - VBA, Excel (Advanced)"
+        icon: fas fa-code #fas fa-shopping-cart #find more at https://fontawesome.com/icons
+      - title: "Analytical Skills"
+        desc: "- Data Analysis & Visualization <br> - Machine Learning & Statistical Forecasting <br> - Supply Chain Optimization <br> - ETL Processes"
+        icon: fas fa-robot #fas fa-laptop
+      - title: "Soft Skills" #"[Markdown](https://en.wikipedia.org/wiki/Markdown)"
+        desc: "- Project Management (SCRUM, Agile) <br> - Cross-functional Team Collaboration <br> - Problem Solving & Critical Thinking"
+        icon: fas fa-handshake #fab fa-markdown
 
   portfolio:
     title: "Main Projects"
@@ -41,8 +38,8 @@ en: &DEFAULT_EN
     closebutton: "Close Project"
 
   timeline:
-    title: "Timeline"
-    text: "Lorem ipsum timeline"
+    title: "Professional Experience & Education"
+    # text: ""
     section: timeline
     # left is the default
     #start_align: "left"
