@@ -86,10 +86,10 @@
   .timeline-heading {
     h4 {
       margin-top: 0;
-      color: $black;//inherit;
+      color: $white;//inherit;
       &.subheading {
         text-transform: none;
-        color: $white;//inherit;
+        color: $black;//inherit;
       }
     }
   }
@@ -97,6 +97,7 @@
     > ul,
     > p {
       margin-bottom: 0;
+      color: $white;
     }
   }
 }
