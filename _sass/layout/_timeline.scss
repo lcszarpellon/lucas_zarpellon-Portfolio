@@ -86,9 +86,10 @@
   .timeline-heading {
     h4 {
       margin-top: 0;
-      color: $white;//inherit;
+      color: $black;//inherit;
       &.subheading {
         text-transform: none;
+        color: $white;//inherit;
       }
     }
   }
