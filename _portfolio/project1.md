@@ -1,19 +1,34 @@
 ---
-title: Project Threads
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-full.jpg
+title: Freight Rate Prediction
+subtitle: Python - Machine Learning 
+image: assets/img/freight_rate.jpg
 alt: Shirts on a hanger
 
 caption:
-  title: Threads
-  subtitle: Illustration
-  thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-thumbnail.jpg
+  title: Predicting freight rates using regression methods 
+  subtitle: Using Python with Machine Learning to predict cost
+  thumbnail: assets/img/freight_rate.jpg
 ---
 
-Use this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+Do you even wonder how Math and Machine Learning could help you **save money in transportation** for your logistics operation?
+If that's the case, I may have a solution for you!
 
+This code design to create models and analyze the data in order to **predict transportation costs** based on certain parameters.
+
+***This code uses Linear Regression, Decision Tree and Support Vector Regression.***
+
+Here's a link to the notebook view with the code and full analysis of the data.
+
+Project: [(https://nbviewer.org/github/lcszarpellon/Freight_Rate_Prediction/blob/main/freight_rate_prediction.ipynb)]
+
+GitHub: [(https://github.com/lcszarpellon/Freight_Rate_Prediction)]
+
+Built entirely with PYTHON and the following libraries:
 {:.list-inline}
-
-- Date: January 2017
-- Client: Threads
-- Category: Illustration
+- matplotlib
+- numpy
+- pandas
+- plotly
+- scikit-learn
+- scipy
+- statsmodels
