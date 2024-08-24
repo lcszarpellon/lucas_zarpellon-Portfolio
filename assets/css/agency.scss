@@ -16,10 +16,12 @@
   {% endfor %}
 {% endif %}
 
-// Custom colors  #fed136 #fff #000
+// Custom colors  #fed136 #fff #000 #548DBF
 $primary: {{ site.data.style.highlight | default: "#548DBF" }} !default;
-$white: {{ site.data.style.white | default: "#0D0000" }} !default;
-$black: {{ site.data.style.black | default: "#82C0D9" }} !default;
+$white: {{ site.data.style.white | default: "#F2F0EB" }} !default;
+$black: {{ site.data.style.black | default: "#0D0000" }} !default;
+$lblue: {{ site.data.style.lblue | default: "#548DBF" }} !default;
+$dblue: {{ site.data.style.dblue | default: "#2477BF" }} !default;
 
 // Custom Images
 $header-image: "{{ site.data.style.header-image }}";
