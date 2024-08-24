@@ -22,6 +22,7 @@ Here's a link to the notebook view with the code and full analysis of the data.
 Project: [(https://nbviewer.org/github/lcszarpellon/Freight_Rate_Prediction/blob/main/freight_rate_prediction.ipynb)]
 
 GitHub: [(https://github.com/lcszarpellon/Freight_Rate_Prediction)]
+---
 
 Built entirely with PYTHON and the following libraries:
 {:.list-inline}
