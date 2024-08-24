@@ -22,7 +22,7 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "Technical Skills"
-        desc: ">- Python (Pandas, NumPy, Scikit-learn, ARIMA) <br> >- Power BI, Knime and Alteryx<br>- SQL (Hadoop)<br>- SAP HANA <br>- VBA, Excel (Advanced)"
+        desc: "- Python (Pandas, NumPy, Scikit-learn, ARIMA) <br>- Power BI, Knime and Alteryx<br>- SQL (Hadoop)<br>- SAP HANA <br>- VBA, Excel (Advanced)"
         icon: fas fa-code #fas fa-shopping-cart #find more at https://fontawesome.com/icons
       - title: "Analytical Skills"
         desc: "- Data Analysis & Visualization <br>- Machine Learning & Statistical Forecasting <br>- Supply Chain Optimization <br>- ETL Processes"
