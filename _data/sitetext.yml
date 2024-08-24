@@ -13,9 +13,7 @@ en: &DEFAULT_EN
   header:
     title: "Hello, I'm Lucas Zarpellon"
     text: "Welcome to my Data Portifolio!"
-    color: "#red"
-    button: "Tell Me More"
-    bg: "#red"
+    button: "More About Me"
     buttonlink: "#services"
 
   services:
