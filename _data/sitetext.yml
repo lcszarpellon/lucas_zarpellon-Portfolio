@@ -22,13 +22,13 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "Technical Skills"
-        desc: "- Python (Pandas, NumPy, Scikit-learn, ARIMA) <br> - Power BI, Knime and Alteryx.<br> - SQL (Hadoop) <br> - SAP HANA <br - VBA, Excel (Advanced)"
+        desc: ">- Python (Pandas, NumPy, Scikit-learn, ARIMA) <br> >- Power BI, Knime and Alteryx<br>- SQL (Hadoop)<br>- SAP HANA <br>- VBA, Excel (Advanced)"
         icon: fas fa-code #fas fa-shopping-cart #find more at https://fontawesome.com/icons
       - title: "Analytical Skills"
-        desc: "- Data Analysis & Visualization <br> - Machine Learning & Statistical Forecasting <br> - Supply Chain Optimization <br> - ETL Processes"
+        desc: "- Data Analysis & Visualization <br>- Machine Learning & Statistical Forecasting <br>- Supply Chain Optimization <br>- ETL Processes"
         icon: fas fa-robot #fas fa-laptop
       - title: "Soft Skills" #"[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "- Project Management (SCRUM, Agile) <br> - Cross-functional Team Collaboration <br> - Problem Solving & Critical Thinking"
+        desc: "- Project Management (SCRUM, Agile) <br>- Cross-functional Team Collaboration <br>- Problem Solving & Critical Thinking"
         icon: fas fa-handshake #fab fa-markdown
 
   portfolio:
