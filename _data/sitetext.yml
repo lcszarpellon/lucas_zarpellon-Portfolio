@@ -65,13 +65,13 @@ en: &DEFAULT_EN
         text: "UFPR"
         year: "2022-2024"
         desc: "Graduated from the Post Graduate program in Data Science in the Federal University of Parana."
-        image: assets/img/timeline/3.jpg
+        image: assets/img/timeline/4.jpg
         alt: image alt text
       - title: "MicroMasters Program in Statistics and Data Science"
         text: "MIT"
         year: "2024"
         desc: "Currently enrolled in the MicroMasters program from MIT in Data Science and Statistics, preparing myself to soon be enrolled in a full Master’s program."
-        image: assets/img/timeline/4.jpg
+        image: assets/img/timeline/5.jpg
         alt:
         # you can enforce the alignment
         align: right
