@@ -1,19 +1,27 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/02-full.jpg
+title: Car Sales Seasonal Study
+subtitle: Python - Data Analysis.
+image: assets/img/car_Sales.jpg
 alt: Keep Exploring
 
 caption:
-  title: Explore
-  subtitle: Graphic Design
-  thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/02-thumbnail.jpg
+  title: Car Sales Seasonal Study
+  subtitle: Using Python to clean and analyze the seasonal components of car sales in the US to drive insights.
+  thumbnail: assets/img/car_Sales.jpg
 ---
 
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+Do you have some money saved and plan to buy a car but don't know which one to buy?
+If that's the case, you're in luck, because today we're going to do some Exploratory Data Analysis in a Car Sales dataset from Kaggle, to understand which cars were sold the most from Jan 2022 until Dec 2023, so we can decide the best car in the market based on historical sales.
+
+
+
+This code is designed to explore the seasonal componesnts of car sales in the US.
+
+
+---
+Built entirely with PYTHON and the following libraries:
 
 {:.list-inline}
-
-- Date: January 2017
-- Client: Explore
-- Category: Graphic Design
+- pandas
+- plotly
+- statsmodels
