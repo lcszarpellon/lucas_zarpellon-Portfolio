@@ -1,14 +1,13 @@
 ---
 caption:
   title: Fuel Prices Dashboard
-  subtitle: Python
-  thumbnail: ![gas_prices_thumb2](https://github.com/user-attachments/assets/f6ea064f-0931-4cf6-b254-4e982de5169a) 
-  
+  subtitle: Python - Data Analytics
+  thumbnail: assets/img/portfolio/gas_prices_thumb2.jpg
 
 title: Brazilian Fuel Prices Dash
 subtitle: Dashboard for analyzing gasoline prices in Brazil (2004-2021) made with Python.
-image: ![gas_prices_full2](https://github.com/user-attachments/assets/b839342a-dc91-4b51-8764-0b588d404506)
-
+image: assets/img/portfolio/gas_prices_full2.jpg
+alt: Shirts on a hanger
 ---
 Have you ever thought about the power of python in data visualization?
 
@@ -19,8 +18,6 @@ Making great scalable solutions for the business, and fully customizable, an eve
 Click on the link below for a live demo of the project:<br>
 *the page may take a while to load due to the server's capacity*<br>
 [https://sundae-trainer-zoologist-8q23.onrender.com/](https://sundae-trainer-zoologist-8q23.onrender.com/) 
-
----
 
 Built entirely with PYTHON and the following libraries:
 
