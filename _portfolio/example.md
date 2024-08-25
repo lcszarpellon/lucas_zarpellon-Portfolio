@@ -1,31 +1,17 @@
 ---
-title: Brazilian Fuel Prices Dash
-subtitle: Dashboard for analyzing gasoline prices in Brazil (2004-2021) made with Python.
-image: ![02-full](https://github.com/user-attachments/assets/9fba4f15-49b4-4aa8-a324-beed836585f0)
-alt: Shirts
+title: Project Name
+subtitle: Lorem ipsum dolor sit amet consectetur.
+image: assets/img/portfolio/04-full.jpg
+alt: 
 
 caption:
-  title: Fuel Prices Dashboard
-  subtitle: Python - Data Analytics
+  title: Lines
+  subtitle: Branding
   thumbnail: assets/img/portfolio/04-thumbnail.jpg
 ---
-Have you ever thought about the power of python in data visualization?
+Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
 
-Often, we rely on specific BI tools to do the job, but I've built this project to show that Python is a great tool for BI as any other!
-
-Making great scalable solutions for the business, and fully customizable, an even opening the possibility to include more advanced analytics to the game.
-
-Click on the link below for a live demo of the project:<br>
-*the page may take a while to load due to the server's capacity*<br>
-[https://sundae-trainer-zoologist-8q23.onrender.com/](https://sundae-trainer-zoologist-8q23.onrender.com/) 
-
-Built entirely with PYTHON and the following libraries:
-
-{:.list-inline} 
-- Dash
-- Dash-Core-Components
-- Dash HTML
-- Dash Bootstrap
-- Plotly
-- Pandas
-- NumPy
+{:.list-inline}
+- Date: October 2019
+- Client: Lines
+- Category: Branding
