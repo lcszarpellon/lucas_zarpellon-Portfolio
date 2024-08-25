@@ -1,13 +1,13 @@
 ---
-caption:
-  title: Fuel Prices Dashboard
-  subtitle: Python - Data Analytics
-  thumbnail: assets/img/portfolio/gas_prices_thumb2.jpg
-
 title: Brazilian Fuel Prices Dash
 subtitle: Dashboard for analyzing gasoline prices in Brazil (2004-2021) made with Python.
 image: assets/img/portfolio/gas_prices_full2.jpg
 alt: Shirts on a hanger
+
+caption:
+  title: Fuel Prices Dashboard
+  subtitle: Python - Data Analytics
+  thumbnail: assets/img/portfolio/04-thumbnail.jpg
 ---
 Have you ever thought about the power of python in data visualization?
 
