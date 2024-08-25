@@ -1,13 +1,13 @@
 ---
 title: Freight Rate Prediction
-subtitle: Python - Machine Learning 
-image: assets/img/freight_rate.jpg
+subtitle: Python - Data Science 
+image: ![freight_rate](https://github.com/user-attachments/assets/8baba6ee-d4ed-4c68-a311-09079f10495b) # assets/img/freight_rate.jpg
 alt: Shirts on a hanger
 
 caption:
   title: Predicting freight rates using regression methods 
   subtitle: Using Python with Machine Learning to predict cost
-  thumbnail: assets/img/freight_rate.jpg
+  thumbnail: ![freight_rate](https://github.com/user-attachments/assets/8baba6ee-d4ed-4c68-a311-09079f10495b) # assets/img/freight_rate.jpg
 ---
 
 Do you even wonder how Math and Machine Learning could help you **save money in transportation** for your logistics operation?
@@ -19,9 +19,10 @@ This code design to create models and analyze the data in order to **predict tra
 
 Here's a link to the notebook view with the code and full analysis of the data.
 
-Project: [(https://nbviewer.org/github/lcszarpellon/Freight_Rate_Prediction/blob/main/freight_rate_prediction.ipynb)]
+Project: [https://nbviewer.org/github/lcszarpellon/Freight_Rate_Prediction/blob/main/freight_rate_prediction.ipynb](https://nbviewer.org/github/lcszarpellon/Freight_Rate_Prediction/blob/main/freight_rate_prediction.ipynb)
 
-GitHub: [(https://github.com/lcszarpellon/Freight_Rate_Prediction)]
+GitHub: [https://github.com/lcszarpellon/Freight_Rate_Prediction](https://github.com/lcszarpellon/Freight_Rate_Prediction)
+
 ---
 
 Built entirely with PYTHON and the following libraries:
