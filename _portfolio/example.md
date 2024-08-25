@@ -2,7 +2,7 @@
 # caption: #what displays in the portfolio grid:
 title: Fuel Prices Dashboard
 subtitle: Python
-thumbnail: ![gas_prices](assets/img/portfolio/gas_prices.jpg) # assets/img/team/gas_prices.jpg
+thumbnail: ![gas_prices](assets/img/portfolio/gas_prices_thumb.jpg) # assets/img/team/gas_prices.jpg
 alt: gas_prices
 
   # https://place-hold.it/400x300
@@ -10,7 +10,7 @@ alt: gas_prices
 #what displays when the item is clicked: 
 title: Brazilian Fuel Prices Dash
 subtitle: Dashboard for analyzing gasoline prices in Brazil (2004-2021) made with Python.
-image: assets/img/portfolio/gas_prices.jpg # assets/img/team/gas_prices.jpg
+image: assets/img/portfolio/gas_prices_full.jpg
 # https://place-hold.it/400x300 #main image, can be a link or a file in assets/img/portfolio
 # image: assets/img/team/perfil_cut.jpg
 alt: gas_prices
