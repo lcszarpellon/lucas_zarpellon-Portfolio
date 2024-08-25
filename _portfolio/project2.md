@@ -1,13 +1,13 @@
 ---
 title: Car Sales Seasonal Study
 subtitle: Python - Data Analysis.
-image: assets/img/car_Sales.jpg
-alt: Keep Exploring
+image: ![Car Sales](assets/img/car_Sales.jpg)
+alt: Car Sales
 
 caption:
   title: Car Sales Seasonal Study
   subtitle: Using Python to clean and analyze the seasonal components of car sales in the US to drive insights.
-  thumbnail: assets/img/car_Sales.jpg
+  thumbnail: ![Car Sales](assets/img/car_Sales.jpg)
 ---
 
 Do you have some money saved and plan to buy a car but don't know which one to buy?
@@ -17,9 +17,10 @@ This code is designed to explore the ***seasonal componesnts*** of car sales in 
 
 Here's a link to the notebook view with the code and full analysis of the data.
 
-Project: [(https://nbviewer.org/github/lcszarpellon/car_sales_seasonal_study/blob/main/car_sales_seasonal_study.ipynb)]
+Project: [https://nbviewer.org/github/lcszarpellon/car_sales_seasonal_study/blob/main/car_sales_seasonal_study.ipynb](https://nbviewer.org/github/lcszarpellon/car_sales_seasonal_study/blob/main/car_sales_seasonal_study.ipynb)
 
-GitHub: [(https://github.com/lcszarpellon/car_sales_seasonal_study)]
+GitHub: [https://github.com/lcszarpellon/car_sales_seasonal_study](https://github.com/lcszarpellon/car_sales_seasonal_study)
+
 ---
 
 Built entirely with PYTHON and the following libraries:
