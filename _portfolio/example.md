@@ -2,7 +2,8 @@
 # caption: #what displays in the portfolio grid:
 title: Fuel Prices Dashboard
 subtitle: Python
-thumbnail: assets/img/portfolio/04-thumbnail.jpg # ![gas_prices](assets/img/portfolio/gas_prices_thumb.jpg) # assets/img/team/gas_prices.jpg
+thumbnail: assets/img/portfolio/04-thumbnail.jpg
+# ![gas_prices](assets/img/portfolio/gas_prices_thumb.jpg) # assets/img/team/gas_prices.jpg
 alt: gas_prices
 
   # https://place-hold.it/400x300
