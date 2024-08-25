@@ -2,7 +2,7 @@
 title: Brazilian Fuel Prices Dash
 subtitle: Dashboard for analyzing gasoline prices in Brazil (2004-2021) made with Python.
 image: ![02-full](https://github.com/user-attachments/assets/9fba4f15-49b4-4aa8-a324-beed836585f0)
-alt: Shirts on a hanger
+alt: Shirts
 
 caption:
   title: Fuel Prices Dashboard
