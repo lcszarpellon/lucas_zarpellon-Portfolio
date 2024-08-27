@@ -1,14 +1,14 @@
 ---
 title: Car Sales Seasonal Study
 subtitle: Python - Data Analysis.
-image: ![CarSales](assets/img/portfolio/car_Sales.jpg)
+image: assets/img/portfolio/car_Sales_thumb.jpg
 
 alt: Car Sales
 
 caption:
   title: Car Sales Seasonal Study
   subtitle: Using Python to clean and analyze the seasonal components of car sales in the US to drive insights.
-  thumbnail: ![CarSales](assets/img/portfolio/car_Sales.jpg)
+  thumbnail: assets/img/portfolio/car_Sales_full.jpg
   
 ---
 
