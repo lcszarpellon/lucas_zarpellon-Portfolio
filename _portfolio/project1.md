@@ -1,13 +1,13 @@
 ---
 title: Freight Rate Prediction
 subtitle: Python - Data Science 
-image: ![freight_rate_full](https://github.com/user-attachments/assets/912b8a57-b79f-465e-b7c8-88fff025e222)
+image: assets/img/portfolio/freight_rate_full.jpg
 alt: freight_rate
 
 caption:
   title: Predicting freight rates using regression methods 
   subtitle: Using Python with Machine Learning to predict cost
-  thumbnail: ![freight_rate_thumb](https://github.com/user-attachments/assets/e4e480fa-fa0a-4dce-9b29-770aa6615132)
+  thumbnail: assets/img/portfolio/freight_rate_thumb.jpg
  
 ---
 
