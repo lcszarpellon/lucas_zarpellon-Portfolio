@@ -1,14 +1,14 @@
 ---
 title: Mall Store Sales 
 subtitle: Exploring PBI capabilities
-image: assets/img/portfolio/mall_sales_pbi - full.png
+image: assets/img/portfolio/mall_sales_pbi - full.jpg
 
 alt: PBI
 
 caption:
   title: Mall Store Sales 
   subtitle: Power BI.
-  thumbnail: assets/img/portfolio/mall_sales_pbi - thumb.png
+  thumbnail: assets/img/portfolio/mall_sales_pbi - thumb.jpg
   
 ---
 
