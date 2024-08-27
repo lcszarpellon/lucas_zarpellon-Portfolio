@@ -7,7 +7,7 @@ alt:
 caption:
   title: Fuel Prices Dashboard
   subtitle: Python - Data Analytics
-  thumbnail: assets/img/portfolio/gas_prices_thumb3.jpg
+  thumbnail: assets/img/portfolio/gas_prices_full.jpg
 ---
 Have you ever thought about the power of python in data visualization?
 
