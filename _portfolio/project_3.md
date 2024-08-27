@@ -1,14 +1,14 @@
 ---
-title: Car Sales Seasonal Study
+title: Order Tracker
 subtitle: Using this Power BI it's possible to track order and their status'
-image: assets/img/portfolio/ot_pbi_thumb.jpg
+image: assets/img/portfolio/ot_pbi_full.jpg
 
 alt: PBI
 
 caption:
   title: Order Tracker
   subtitle: Power BI.
-  thumbnail: assets/img/portfolio/ot_pbi_full.jpg
+  thumbnail: assets/img/portfolio/ot_pbi_thumb.jpg
   
 ---
 
